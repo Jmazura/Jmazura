@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Azura Jhon Michael, A Bachelor of Science in Mathematics with Specialization in Computer Science.👋
 
 <!--
 **Jmazura/Jmazura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
