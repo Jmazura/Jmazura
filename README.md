@@ -1,15 +1,31 @@
-## Hi there I'm Azura Jhon Michael, A Bachelor of Science in Mathematics with Specialization in Computer Science.👋
 
-<!--
-**Jmazura/Jmazura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="font-family: 'monospace';">
 
-Here are some ideas to get you started:
+<h2>Hey 👋, I'm <a href="https://github.com/Jmazura/">Yugiboyy</a></h2>
 
-- 🔭 I’m currently working on enchancing my skills a developer focusing on Sofware Applications with the purpose of developing useful Tools for future uses.
-- 🌱 I’m currently looking for an Internship and a Part Time Job
-- 👯 I’m looking to collaborate on fellow developers working on indie projects
-- 🤔 I’m looking for help with getting a Internship.
-- 💬 Ask me about my details if you are interested working with me
-- 📫 How to reach me: through my gmail "azurajhonmichael33@gmail.com"
-- ⚡ Fun fact: I like Music
--->
+
+#### About me
+A Bachelor of Science in Mathematics with Specialization in Computer Science Student.
+As of now looking for an Internship. I've studied different programming language in my spare time, langauages such as Pythom Java, C++ and others.
+I've very passionate about software development, more on Games and Tools.
+
+###  A Few Quick Facts
+<ul>
+  <li>
+    I'm currently working on a indie chess game as a practice project
+  </li>
+  
+  <li>
+    I'm currently working on getting an Internship and a part time job
+  </li>
+  
+  <li>
+    All my projects will be Available on Github or on Itch Io
+  </li>
+  
+  <li>
+    You can contact me with my facebook and gmail accounts.  
+  </li>
+
+  
+</ul>
