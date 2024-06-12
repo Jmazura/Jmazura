@@ -6,7 +6,7 @@
 
 #### About me
 A Bachelor of Science in Mathematics with Specialization in Computer Science Student.
-As of now looking for an Internship. I've studied different programming language in my spare time, langauages such as Pythom, Java, C++ and others.
+As of now looking for an Internship. I've studied different programming language in my spare time, langauages such as Python, Java, C++ and others.
 I've very passionate about software development, I like to developt softwares more on Games and Tools.
 
 ###  A Few Quick Facts
