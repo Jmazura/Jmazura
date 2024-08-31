@@ -5,28 +5,25 @@
 
 
 #### About me
-A Bachelor of Science in Mathematics with Specialization in Computer Science Student.
-As of now looking for an Internship. I've studied different programming language in my spare time, langauages such as Python, Java, C++ and others.
-I've very passionate about software development, I like to developt softwares more on Games and Tools.
+I'm an Undergraduate Student, BS Math with major in Computer Science exploring the concepts of Machine Learning and Deep Learning. I'm currently focusing on my Thesis Project for my College Course. I usually spend my free time doing different kind of hobbies such as Game Development, Video Game Music Production. 
 
 ###  A Few Quick Facts
 <ul>
   <li>
-    I'm currently working on a indie chess game as a practice project
+      Currently, Focusing on My Studies.
   </li>
   
   <li>
-    I'm currently working on getting an Internship and a part time job
+    All my projects are and will be available on Itch.IO.
   </li>
   
   <li>
-    All my projects will be Available on Github or on Itch Io
-  </li>
-  
-  <li>
-    You can contact me with my facebook and gmail accounts.  
+    I play Bass, Electric and Acoustic Guitar, I also play the Keyboard or Piano.
   </li>
 
+  <li>
+    Planning to make a band.
+  </li>
   
 </ul>
 
@@ -34,5 +31,5 @@ I've very passionate about software development, I like to developt softwares mo
 <p> Gmail: azurajhonmichael33@gmail.com</p>
 <p> Facebook: www.facebook.com/renugo08</p>
 
-<h4> Reference to some of the my works </h4>
+<h4> Reference to my works </h4>
 <p> https://yugiboii.itch.io/ </p>
